@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+*.zip
+*.tar.gz
+*.mp4
+*.mov
+*.avi
+*.pdf
+public/videos/
+public/large-images/
+.env.local
+.env.production
